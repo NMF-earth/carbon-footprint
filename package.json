@@ -1,0 +1,27 @@
+{
+  "name": "carbon-footprint",
+  "version": "1.0.0",
+  "description": "Calculate your carbon footprint. Food, transport and purchases.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotMyFaultEarth/carbon-footprint.git"
+  },
+  "keywords": [
+    "carbon",
+    "footprint",
+    "calculate",
+    "food",
+    "transport",
+    "purchases"
+  ],
+  "author": "Not My Fault <contact@nmf.earth> (http://nmf.earth)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NotMyFaultEarth/carbon-footprint/issues"
+  },
+  "homepage": "https://github.com/NotMyFaultEarth/carbon-footprint#readme"
+}

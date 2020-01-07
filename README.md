@@ -9,13 +9,14 @@ Unit of measurement used in the project are following the [International System 
 ## Install 📦
 
 `yarn add carbon-footprint`
+or
 `npm install carbon-footprint`
 
 ## How to use 🔥
 
 `import { transport,food } from 'carbon-footprint'`
 ...
-`const emission = kilometer * transport.fossilFueledCar`
+`const emission = kilometer * transport.fossilFueledCar;`
 
 ## Source ℹ️
 

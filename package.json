@@ -35,8 +35,10 @@
   "homepage": "https://github.com/NotMyFaultEarth/carbon-footprint#readme",
   "devDependencies": {
     "@types/jest": "24.9.0",
+    "@types/ramda": "0.26.39",
     "jest": "24.9.0",
     "prettier": "1.19.1",
+    "ramda": "0.26.1",
     "ts-jest": "24.3.0",
     "tslint": "5.20.1",
     "tslint-config-prettier": "1.18.0",
@@ -45,8 +47,5 @@
   "files": [
     "lib/**/*"
   ],
-  "dependencies": {
-    "@types/ramda": "^0.26.39",
-    "ramda": "^0.26.1"
-  }
+  "dependencies": {}
 }

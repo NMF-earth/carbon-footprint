@@ -44,5 +44,9 @@
   },
   "files": [
     "lib/**/*"
-  ]
+  ],
+  "dependencies": {
+    "@types/ramda": "^0.26.39",
+    "ramda": "^0.26.1"
+  }
 }

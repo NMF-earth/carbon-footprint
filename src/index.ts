@@ -1,5 +1,5 @@
-import transport from './transport';
-import food from './food';
+import { food, FoodEnum } from './food';
+import { transport, TransportEnum } from './transport';
 import version from './version';
 
-export { transport, food, version };
+export { food, FoodEnum, transport, TransportEnum, version };

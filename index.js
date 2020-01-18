@@ -1,6 +1,5 @@
 import transport from "./transport";
 import food from "./food";
+import version from "./version";
 
-const CO2EQ_MODEL_VERSION = 1;
-
-export { transport, food, CO2EQ_MODEL_VERSION };
+export { transport, food, version };

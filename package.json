@@ -1,6 +1,6 @@
 {
   "name": "carbon-footprint",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Calculate your carbon footprint. Food, transport and purchases.",
   "main": "index.js",
   "scripts": {

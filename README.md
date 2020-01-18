@@ -14,7 +14,7 @@ or
 
 ## How to use 🔥
 
-`import { transport,food } from 'carbon-footprint'`
+`import { transport } from 'carbon-footprint'`
 ...
 `const emission = kilometer * transport.fossilFueledCar;`
 

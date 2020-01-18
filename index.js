@@ -1,5 +1,3 @@
-import transport from "./transport";
-import food from "./food";
-import version from "./version";
-
-export { transport, food, version };
+export { default as transport } from "./transport";
+export { default as food } from "./food";
+export { default as version } from "./version";

@@ -27,5 +27,5 @@ export default {
   boat,
   shortHaulFlight,
   mediumHaulFlight,
-  longHaulFlight
+  longHaulFlight,
 };

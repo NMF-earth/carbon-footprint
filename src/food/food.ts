@@ -37,5 +37,5 @@ export default {
   vegetables,
   milk,
   fruit,
-  lentils
+  lentils,
 };

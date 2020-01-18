@@ -25,3 +25,9 @@ Can be found inside corresponding file.
 ## Contribution 🙋
 
 Any Contribution is welcome!
+
+## Lint + typescript :
+
+`npm run lint`
+and :
+`npm run format`

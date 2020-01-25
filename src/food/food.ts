@@ -4,7 +4,7 @@
 
 const lamb = 39.2;
 const beef = 27.0;
-const readMeat = (lamb + beef) / 2;
+const redMeat = (lamb + beef) / 2;
 const cheese = 13.5;
 const pork = 12.1;
 const turkey = 10.9;
@@ -24,7 +24,7 @@ const fruit = 1.1;
 const lentils = 0.9;
 
 export default {
-  readMeat,
+  redMeat,
   whiteMeat,
   fish,
   lamb,

@@ -37,6 +37,7 @@
   "devDependencies": {
     "@types/jest": "24.9.0",
     "@types/ramda": "0.26.39",
+    "husky": "^4.2.1",
     "jest": "24.9.0",
     "prettier": "1.19.1",
     "ramda": "0.26.1",
@@ -48,5 +49,10 @@
   "files": [
     "lib/**/*"
   ],
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm test"
+    }
+  },
   "dependencies": {}
 }

@@ -35,3 +35,5 @@ and :
 ## Workflow
 
 There is a test called `failing-test` that will block any push to master.
+
+To publish to npm, just create a new [release](https://github.com/NotMyFaultEarth/carbon-footprint/releases).

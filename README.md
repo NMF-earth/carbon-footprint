@@ -31,3 +31,7 @@ Any Contribution is welcome!
 `npm run lint`
 and :
 `npm run format`
+
+## Workflow
+
+There is a test called `failing-test` that will block any push to master.

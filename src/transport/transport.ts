@@ -2,6 +2,7 @@
 
 /* Unit: kgCO2eq/m */
 
+const bus = 0.000103;
 const fossilFueledCar = 0.000257;
 const electricVehicle = 0.000081;
 const car = fossilFueledCar;
@@ -18,6 +19,7 @@ const longHaulFlight = 0.000239;
 const plane = (shortHaulFlight + mediumHaulFlight + longHaulFlight) / 3;
 
 export default {
+  bus,
   plane,
   car,
   fossilFueledCar,

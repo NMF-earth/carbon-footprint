@@ -28,7 +28,7 @@
     "transport",
     "purchases"
   ],
-  "author": "Not My Fault <contact@nmf.earth> (http://nmf.earth)",
+  "author": "NMF.earth <contact@nmf.earth> (http://nmf.earth)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/NotMyFaultEarth/carbon-footprint/issues"
@@ -37,7 +37,7 @@
   "devDependencies": {
     "@types/jest": "24.9.0",
     "@types/ramda": "0.26.39",
-    "husky": "^4.2.1",
+    "husky": "4.2.1",
     "jest": "24.9.0",
     "prettier": "1.19.1",
     "ramda": "0.26.1",

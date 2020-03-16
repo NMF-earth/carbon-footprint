@@ -1,7 +1,7 @@
 # Carbon Footprint Diagnostic 👣🩺
 
 Calculate your carbon footprint. Food, transport and purchases.
-Used in [NMF.earth](https://nmf.earth/) project
+Used in [NMF.earth](https://nmf.earth/) open-source project. If you want to see how we use this module, check the [NMF.earth app repo](https://github.com/NotMyFaultEarth/nmf-app).
 
 ### Units 🌐
 

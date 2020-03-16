@@ -2,7 +2,8 @@
 
 Calculate your carbon footprint. Food, transport and purchases.
 
-Used in [NMF.earth](https://nmf.earth/) open-source project. If you want to see how we use this module, check the [NMF.earth app repo](https://github.com/NotMyFaultEarth/nmf-app).
+Used in [NMF.earth](https://nmf.earth/) open-source project.
+
 
 ### Units 🌐
 
@@ -21,6 +22,8 @@ or
 `import { transport } from 'carbon-footprint'`
 ...
 `const emission = kilometer * transport.fossilFueledCar;`
+
+If you want to see how we use this module, check the [NMF.earth app repo](https://github.com/NotMyFaultEarth/nmf-app).
 
 ### Source ℹ️
 

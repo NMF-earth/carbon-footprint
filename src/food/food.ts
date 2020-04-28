@@ -1,7 +1,6 @@
-/* http://www.greeneatz.com/foods-carbon-footprint.html */
-
 /* Unit: kgCO2eq */
 
+/* http://www.greeneatz.com/foods-carbon-footprint.html */
 const lamb = 39.2;
 const beef = 27.0;
 const redMeat = (lamb + beef) / 2;
@@ -23,7 +22,13 @@ const milk = 1.9;
 const fruit = 1.1;
 const lentils = 0.9;
 
+/* https://www.bilans-ges.ademe.fr/ */
+const coffee = 3.14;
+const chocolate = 4.87;
+
 export default {
+  coffee,
+  chocolate,
   redMeat,
   whiteMeat,
   fish,

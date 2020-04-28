@@ -1,4 +1,6 @@
 export enum FoodEnum {
+  coffee = 'coffee',
+  chocolate = 'chocolate',
   redMeat = 'redMeat',
   whiteMeat = 'whiteMeat',
   fish = 'fish',

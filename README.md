@@ -2,31 +2,38 @@
 
 Calculate your carbon footprint. Food, transport and purchases.
 
-## Units 🌐
+Used in [NMF.earth](https://nmf.earth/) open-source project.
+
+
+### Units 🌐
 
 Unit of measurement used in the project are following the [International System of Units](https://simple.wikipedia.org/wiki/International_System_of_Units).
 
-## Install 📦
+Therefore meter is used instead of kilometer for distance and any mass is in kilogram.
+
+### Install 📦
 
 `yarn add carbon-footprint`
 or
 `npm install carbon-footprint`
 
-## How to use 🔥
+### How to use 🔥
 
 `import { transport } from 'carbon-footprint'`
 ...
 `const emission = kilometer * transport.fossilFueledCar;`
 
-## Source ℹ️
+If you want to see how we use this module, check the [NMF.earth app repo](https://github.com/NotMyFaultEarth/nmf-app).
 
-Can be found inside corresponding file.
+### Source ℹ️
 
-## Contribution 🙋
+You can verify any number. A link can be found inside corresponding file.
+
+### Contribution 🙋
 
 Any Contribution is welcome!
 
-## Lint + typescript :
+### Lint + typescript :
 
 `npm run lint`
 and :
@@ -35,3 +42,7 @@ and :
 ## Workflow
 
 To publish to npm, just create a new [release](https://github.com/NotMyFaultEarth/carbon-footprint/releases).
+
+### ©️ Open source - licence
+
+Repository and contributions are under [GNU General Public License v3.0](https://github.com/NotMyFaultEarth/carbon-footprint/blob/master/LICENSE)

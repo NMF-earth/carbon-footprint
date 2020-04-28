@@ -1,10 +1,10 @@
 # Carbon Footprint Diagnostic 👣🩺
 
-Calculate your carbon footprint. Food, transport and purchases.
+Calculate your carbon footprint. Food, transport, purchases, electricity and digital activities like streaming.
 
 ## Units 🌐
 
-Unit of measurement used in the project are following the [International System of Units](https://simple.wikipedia.org/wiki/International_System_of_Units).
+Unit of measurement used in the project are following the [International System of Units](https://simple.wikipedia.org/wiki/International_System_of_Units) to avoid confusion and make everything easy to remember : second for time, energy in joules, mass in kilogram and distance in meter.
 
 ## Install 📦
 

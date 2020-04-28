@@ -1,7 +1,7 @@
 {
   "name": "carbon-footprint",
-  "version": "1.1.0",
-  "description": "Calculate your carbon footprint. Food, transport and purchases.",
+  "version": "1.2.0",
+  "description": "Calculate your carbon footprint. Food, transport, purchases, electricity and digital activities like streaming.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NotMyFaultEarth/carbon-footprint.git"
+    "url": "git+https://github.com/NMF-earth/carbon-footprint.git"
   },
   "keywords": [
     "carbon",
@@ -26,25 +26,28 @@
     "calculate",
     "food",
     "transport",
-    "purchases"
+    "purchases",
+    "digital",
+    "streaming",
+    "electricity"
   ],
   "author": "NMF.earth <contact@nmf.earth> (http://nmf.earth)",
-  "license": "ISC",
+  "license": "GPLv3",
   "bugs": {
-    "url": "https://github.com/NotMyFaultEarth/carbon-footprint/issues"
+    "url": "https://github.com/NMF-earth/carbon-footprint/issues"
   },
-  "homepage": "https://github.com/NotMyFaultEarth/carbon-footprint#readme",
+  "homepage": "https://github.com/NMF-earth/carbon-footprint#readme",
   "devDependencies": {
-    "@types/jest": "24.9.0",
-    "@types/ramda": "0.26.39",
-    "husky": "4.2.1",
-    "jest": "24.9.0",
-    "prettier": "1.19.1",
-    "ramda": "0.26.1",
-    "ts-jest": "24.3.0",
-    "tslint": "5.20.1",
+    "@types/jest": "25.2.1",
+    "@types/ramda": "0.27.4",
+    "husky": "4.2.5",
+    "jest": "25.4.0",
+    "prettier": "2.0.5",
+    "ramda": "0.27.0",
+    "ts-jest": "25.4.0",
+    "tslint": "6.1.2",
     "tslint-config-prettier": "1.18.0",
-    "typescript": "3.7.5"
+    "typescript": "3.8.3"
   },
   "files": [
     "lib/**/*"

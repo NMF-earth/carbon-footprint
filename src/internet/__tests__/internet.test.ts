@@ -2,6 +2,8 @@ import { ElectricityEnum, getInternetUsageCarbonImpact } from '../../';
 
 describe('internet', () => {
   test('should return ', () => {
-    expect(getInternetUsageCarbonImpact(6000, Math.pow(700, 6), ElectricityEnum.world)).toEqual(13.688301144);
+    expect(getInternetUsageCarbonImpact(100 * 60, 8 * 700 * Math.pow(10, 6), ElectricityEnum.world)).toEqual(
+      0.07118949999999999,
+    );
   });
 });

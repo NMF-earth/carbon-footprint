@@ -4,10 +4,9 @@ Calculate your carbon footprint. Food, transport, purchases, electricity and dig
 
 Used in [NMF.earth](https://nmf.earth/) open-source project.
 
-
 ### Units 🌐
 
-Unit of measurement used in the project are following the [International System of Units](https://simple.wikipedia.org/wiki/International_System_of_Units) to avoid confusion and make everything easy to remember : second for time, energy in joules, mass in kilogram and distance in meter.
+Unit of measurement used in the project are following the [International System of Units](https://simple.wikipedia.org/wiki/International_System_of_Units) to avoid confusion and make everything easy to remember : seconds for time, energy in joules, mass in kilogram, distance in meters, memory in bits.
 
 Therefore meter is used instead of kilometer for distance and any mass is in kilogram.
 

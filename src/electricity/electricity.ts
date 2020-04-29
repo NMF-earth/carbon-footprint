@@ -1,6 +1,6 @@
 /* Unit of exported constant : kgCO₂eq/J */
 
-/* source in kWh : https://github.com/carbonalyser/Carbonalyser */
+/* source in kgCO₂eq/kWh : https://github.com/carbonalyser/Carbonalyser */
 const europe = 0.276;
 const usa = 0.493;
 const china = 0.681;

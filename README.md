@@ -1,13 +1,12 @@
 # Carbon Footprint Diagnostic 👣🩺
 
-Calculate your carbon footprint. Food, transport and purchases.
+Calculate your carbon footprint. Food, transport, purchases, electricity and digital activities like streaming.
 
 Used in [NMF.earth](https://nmf.earth/) open-source project.
 
-
 ### Units 🌐
 
-Unit of measurement used in the project are following the [International System of Units](https://simple.wikipedia.org/wiki/International_System_of_Units).
+Unit of measurement used in the project are following the [International System of Units](https://simple.wikipedia.org/wiki/International_System_of_Units) to avoid confusion and make everything easy to remember : seconds for time, energy in joules, mass in kilogram, distance in meters, memory in bits.
 
 Therefore meter is used instead of kilometer for distance and any mass is in kilogram.
 

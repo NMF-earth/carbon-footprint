@@ -3,6 +3,7 @@
 Calculate your carbon footprint. Food, transport, purchases, electricity and digital activities like streaming.
 
 Used in [NMF.earth](https://nmf.earth/) open-source project.
+Can be found on [NPM](https://www.npmjs.com/package/carbon-footprint).
 
 ### Units 🌐
 

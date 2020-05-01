@@ -37,6 +37,7 @@ const getInternetUsageCarbonImpact = (
 
   const GHGdevice = duration * FactorDevice * electricity[carbonElectricityIntensity];
 
+  /* kgCO₂eq */
   return GHGdataCenter + GHGnetwork + GHGdevice;
 };
 

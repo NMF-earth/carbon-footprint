@@ -10,8 +10,8 @@ const HDVideo = (1.21 * Math.pow(10, 9) * 8) / ((2 * 60 + 22) * 60);
 const fullHDVideo = (7.02 * Math.pow(10, 9) * 8) / ((2 * 60 + 22) * 60);
 const ultraHDVideo = (35.73 * Math.pow(10, 9) * 8) / ((2 * 60 + 22) * 60);
 
-/* MP3 song at 312 kbps / 6.6 MB */
-const audioMP3 = (6.6 * Math.pow(10, 6) * 8) / 210;
+/* MP3 song at 192 kbps / 3.8 MB */
+const audioMP3 = (3.8 * Math.pow(10, 6) * 8) / 154;
 
 export default {
   HDVideo,

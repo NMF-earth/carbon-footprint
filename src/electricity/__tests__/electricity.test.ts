@@ -3,5 +3,5 @@ import electricity from '../electricity';
 
 test('All electricity keys should contain a valid number', () => {
   const electricityKeys = keys(electricity);
-  map((item: any) => expect(typeof electricityKeys[item]).toBe('number'));
+  map((item: number) => expect(typeof electricityKeys[item]).toBe('number'));
 });

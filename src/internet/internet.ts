@@ -29,7 +29,7 @@ const getInternetUsageCarbonImpact = (
   duration: number,
   dataWeight: number,
   carbonElectricityIntensity: ElectricityEnum,
-) => {
+): number => {
   /* GHG : greenhouse gas */
   const GHGdataCenter = dataWeight * FactorDataCenter * electricity.world;
 

@@ -37,7 +37,7 @@ You can verify any number. A link can be found inside corresponding file.
 ### Contribution 🙋
 
 Any Contribution is welcome!
-Please read [this] (CONTRIBUTING.md) if you want to contribute.
+Please read [this] (carbon-footprint\CONTRIBUTING.md) if you want to contribute.
 
 ### Lint + typescript :
 

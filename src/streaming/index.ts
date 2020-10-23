@@ -1,4 +1,4 @@
 import streaming from './streaming';
-import { StreamingEnum } from './streaming.enum';
+import { StreamingType } from './streaming.enum';
 
-export { streaming, StreamingEnum };
+export { streaming, StreamingType };

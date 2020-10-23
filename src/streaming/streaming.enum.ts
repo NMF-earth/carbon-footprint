@@ -1,4 +1,4 @@
-export enum StreamingEnum {
+export enum StreamingType {
   HDVideo = 'HDVideo',
   fullHDVideo = 'fullHDVideo',
   ultraHDVideo = 'ultraHDVideo',

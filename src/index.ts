@@ -1,17 +1,17 @@
-import { food, FoodEnum } from './food';
-import { transport, TransportEnum } from './transport';
-import { electricity, ElectricityEnum } from './electricity';
+import { food, FoodType } from './food';
+import { transport, TransportType } from './transport';
+import { electricity, ElectricityType } from './electricity';
 import { getInternetUsageCarbonImpact } from './internet';
-import { streaming, StreamingEnum } from './streaming';
+import { streaming, StreamingType } from './streaming';
 
 export {
   food,
-  FoodEnum,
+  FoodType,
   transport,
-  TransportEnum,
+  TransportType,
   electricity,
-  ElectricityEnum,
+  ElectricityType,
   getInternetUsageCarbonImpact,
   streaming,
-  StreamingEnum,
+  StreamingType,
 };

@@ -1,4 +1,4 @@
 import transport from './transport';
-import { TransportEnum } from './transport.enum';
+import { TransportType } from './transport.enum';
 
-export { transport, TransportEnum };
+export { transport, TransportType };

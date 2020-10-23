@@ -1,4 +1,4 @@
-import { ElectricityEnum, electricity } from '../';
+import { ElectricityType, electricity } from '../';
 
 /* 
 
@@ -28,7 +28,7 @@ const FactorDevice = toJoules(0.055 / (60 * 60));
 const getInternetUsageCarbonImpact = (
   duration: number,
   dataWeight: number,
-  carbonElectricityIntensity: ElectricityEnum,
+  carbonElectricityIntensity: ElectricityType,
 ): number => {
   /* GHG : greenhouse gas */
   const GHGdataCenter = dataWeight * FactorDataCenter * electricity.world;

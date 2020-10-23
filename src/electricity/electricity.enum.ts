@@ -1,4 +1,4 @@
-export enum ElectricityEnum {
+export enum ElectricityType {
   europe = 'europe',
   usa = 'usa',
   china = 'china',

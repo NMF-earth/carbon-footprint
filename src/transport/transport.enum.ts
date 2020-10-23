@@ -1,4 +1,4 @@
-export enum TransportEnum {
+export enum TransportType {
   plane = 'plane',
   bus = 'bus',
   boat = 'boat',

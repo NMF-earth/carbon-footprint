@@ -1,0 +1,330 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.pca.state.mn.us/sites/default/files/favicon.png" type="image/png" />
+<meta name="description" content="Chlorofluorocarbons (CFCs) and hydrofluorocarbons (HFCs)" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.pca.state.mn.us/air/chlorofluorocarbons-cfcs-and-hydrofluorocarbons-hfcs" />
+<link rel="shortlink" href="https://www.pca.state.mn.us/node/140" />
+<meta property="og:site_name" content="Minnesota Pollution Control Agency" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.pca.state.mn.us/air/chlorofluorocarbons-cfcs-and-hydrofluorocarbons-hfcs" />
+<meta property="og:title" content="Chlorofluorocarbons (CFCs) and hydrofluorocarbons (HFCs)" />
+<meta property="og:description" content="Chlorofluorocarbons (CFCs) and hydrofluorocarbons (HFCs)" />
+<meta property="og:updated_time" content="2019-01-11T13:44:23-06:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@MnPCA" />
+<meta name="twitter:url" content="https://www.pca.state.mn.us/air/chlorofluorocarbons-cfcs-and-hydrofluorocarbons-hfcs" />
+<meta name="twitter:title" content="Chlorofluorocarbons (CFCs) and hydrofluorocarbons (HFCs)" />
+<meta name="twitter:description" content="Chlorofluorocarbons (CFCs) and hydrofluorocarbons (HFCs)" />
+<meta property="article:published_time" content="2009-11-16T02:00:00-06:00" />
+<meta property="article:modified_time" content="2019-01-11T13:44:23-06:00" />
+  <title>Chlorofluorocarbons (CFCs) and hydrofluorocarbons (HFCs) | Minnesota Pollution Control Agency</title>
+  <link type="text/css" rel="stylesheet" href="https://www.pca.state.mn.us/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.pca.state.mn.us/sites/default/files/css/css_uvXHmeLvHdTDkDxRm3KAAdxQPL1XRDjk3S5viDnAQJg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.pca.state.mn.us/sites/default/files/css/css_nt5B-3MidJAddllvqiBrxdlW2Lh0obTN96YxY91reF4.css" media="all" />
+<style>#block-watson-explorer-watson-explorer input[type="checkbox"],#block-watson-explorer-watson-explorer .params label{display:none;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.pca.state.mn.us/sites/default/files/css/css_sIC8ZjAF6jak2qMa_rmRSIAKxATgUhPSsakaiAzRc9g.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="//code.jquery.com/jquery-1.7.2.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")</script>
+<script src="https://www.pca.state.mn.us/sites/default/files/js/js_uJR3Qfgc-bGacxkh36HU9Xm2Q98e_V5UWlFISwie5ro.js"></script>
+<script src="https://www.pca.state.mn.us/sites/default/files/js/js_gPqjYq7fqdMzw8-29XWQIVoDSWTmZCGy9OqaHppNxuQ.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-5726203-10", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("set", "dimension1", "Air");ga("set", "dimension2", "Air|How\u0026#039;s the air?|Air pollutants and sources|Air pollutants");ga("set", "dimension3", "Air, How\u0026#039;s the air?, Air pollutants and sources, Air pollutants");ga("send", "pageview");</script>
+<script src="https://www.pca.state.mn.us/sites/default/files/js/js_8nf5_TQYNN4_huqR9jJhnT5nReC97YWTJJHIcUvN7R0.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"mothership","theme_token":"624IWw4PHGB1HzrTPZWhZ_9L1vxe8c2-ZwpCMZkQepk","js":{"0":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/code.jquery.com\/jquery-1.7.2.min.js":1,"1":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"2":1,"sites\/all\/themes\/mothership_bootstrap\/js\/mothership.js":1,"sites\/all\/themes\/mothership_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/mothership_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/mothership_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/mothership_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/mothership_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/mothership_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/mothership_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/mothership_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/mothership_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/mothership_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/mothership_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/mothership_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/mothership_bootstrap\/js\/bootstrap-accessibility.min.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/node_embed\/plugins\/node_embed\/node_embed.css":1,"0":1,"sites\/all\/themes\/mothership_bootstrap\/css\/style.css":1,"sites\/all\/themes\/mothership_bootstrap\/css\/bootstrap-accessibility.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-140 node-type-page published">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <header id="navbar" role="banner">
+  <div class="container">
+    <div class="logo-header">
+      <div class="header-tab">
+        <a href="https://mn.gov/covid19"><img src="/sites/default/files/stay-safe-masthead-384.png" alt="Stay Safe MN"></a>
+      </div>
+                <div class="region region-search">
+    <section id="block-watson-explorer-watson-explorer" class="block block-watson-explorer clearfix">
+
+      
+  <div class="watson-explorer-searchbox">
+  <form method="get" action="/search">
+    <div class="input-group">
+      <input class="watson-explorer-input form-control" type="text" name="query"
+             title="search" placeholder="Search..."/>
+
+      <div class="input-group-btn">
+        <button type="submit"
+                class="watson-explorer-search-button btn btn-primary"
+                title="search"><span class="fa fa-search"></span><span
+            class="sr-only">Search</span></button>
+      </div>
+    </div>
+    <div class="params pull-right">
+      <input type="checkbox" id="search-documents" name="filetype" value="docs"> <label for="search-documents">Show only documents</label>
+      <input type="checkbox" id="search-sort-by-date" name="sortby" value="date"> <label for="search-sort-by-date">Sort by date</label>
+    </div>
+  </form>
+</div>
+</section>
+  </div>
+                  <a class="logo navbar-btn" href="/" title="Home">
+        <img src="https://www.pca.state.mn.us/sites/default/files/mpca-logo.png" alt="Home" />
+      </a>
+                </div>
+    <div  class="navbar container navbar-default">
+      <div class="navbar-header">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+
+              <div class="navbar-collapse collapse">
+                        <div class="region region-search">
+      <div class="region region-search">
+    <section id="block-watson-explorer-watson-explorer" class="block block-watson-explorer clearfix">
+
+      
+  <div class="watson-explorer-searchbox">
+  <form method="get" action="/search">
+    <div class="input-group">
+      <input class="watson-explorer-input form-control" type="text" name="query"
+             title="search" placeholder="Search..."/>
+
+      <div class="input-group-btn">
+        <button type="submit"
+                class="watson-explorer-search-button btn btn-primary"
+                title="search"><span class="fa fa-search"></span><span
+            class="sr-only">Search</span></button>
+      </div>
+    </div>
+    <div class="params pull-right">
+      <input type="checkbox" id="search-documents" name="filetype" value="docs"> <label for="search-documents">Show only documents</label>
+      <input type="checkbox" id="search-sort-by-date" name="sortby" value="date"> <label for="search-sort-by-date">Sort by date</label>
+    </div>
+  </form>
+</div>
+</section>
+  </div>
+  </div>
+                    <nav role="navigation">
+                          <ul class="menu nav navbar-nav"><li class="first expanded active-trail active dropdown"><a href="/air" class="active-trail dropdown-toggle" data-target="#" data-toggle="dropdown">Air <span class="caret"></span></a><ul class="dropdown-menu"><li class="first expanded active-trail active"><a href="/air/hows-air-0" class="active-trail">How&#039;s the air?</a></li>
+<li class="collapsed"><a href="/air/business-and-industry">Business and industry</a></li>
+<li class="expanded"><a href="/air/current-air-quality">Current air quality</a></li>
+<li class="expanded"><a href="/air/climate-change-minnesota">Climate change in Minnesota</a></li>
+<li class="leaf"><a href="/air/data-and-tools">Air data and tools</a></li>
+<li class="last collapsed"><a href="/air/clean-cars-mn">Clean Cars Minnesota</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/water" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Water <span class="caret"></span></a><ul class="dropdown-menu"><li class="first collapsed"><a href="/hows-the-water">How&#039;s the water?</a></li>
+<li class="collapsed"><a href="/water/citizens-guide-regulations">Citizen&#039;s guide to regulations</a></li>
+<li class="collapsed"><a href="/water/permitting-and-regulations">Permitting and regulations</a></li>
+<li class="collapsed"><a href="/water/resources-water-partners">Resources for water partners</a></li>
+<li class="last leaf"><a href="/water/water-quality-data">Water quality data</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/waste" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Waste <span class="caret"></span></a><ul class="dropdown-menu"><li class="first expanded"><a href="/waste/cleanup-contaminated-sites">Cleanup</a></li>
+<li class="collapsed"><a href="/waste/hazardous-waste-and-problem-materials">Hazardous waste and problem materials</a></li>
+<li class="collapsed"><a href="/waste/managing-waste">Managing solid waste</a></li>
+<li class="collapsed"><a href="/waste/recycling-and-composting" title="Recycling and composting add significant value to Minnesota’s economy while protecting our environment.">Recycling and composting</a></li>
+<li class="expanded"><a href="/waste/waste-regulations">Permits and rules</a></li>
+<li class="collapsed"><a href="/waste/preventing-waste-and-pollution">Preventing waste and pollution</a></li>
+<li class="last expanded"><a href="/waste/waste-publications">Publications</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/regulations" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Regulations <span class="caret"></span></a><ul class="dropdown-menu"><li class="first collapsed"><a href="/regulations/rules">Rules</a></li>
+<li class="expanded"><a href="/regulations/permits">Permits</a></li>
+<li class="expanded"><a href="/regulations/guidance-and-assistance">Guidance and assistance</a></li>
+<li class="expanded"><a href="/regulations/environmental-review">Environmental review</a></li>
+<li class="expanded"><a href="/regulations/enforcement">Enforcement</a></li>
+<li class="expanded"><a href="/regulations/mining">Mining</a></li>
+<li class="last expanded"><a href="/smallbizhelp">Small Business Environmental Assistance</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/living-green" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Living Green <span class="caret"></span></a><ul class="dropdown-menu"><li class="first collapsed"><a href="/living-green/celebrations">Celebrations</a></li>
+<li class="collapsed"><a href="/living-green/community-0">Community</a></li>
+<li class="leaf"><a href="/living-green/family-and-pets">Family and pets</a></li>
+<li class="collapsed"><a href="/living-green/home-and-garden">Home and garden</a></li>
+<li class="collapsed"><a href="/living-green/personal-action">Personal action</a></li>
+<li class="collapsed"><a href="/living-green/travel-and-leisure">Travel and leisure</a></li>
+<li class="last leaf"><a href="/living-green/living-green-365">Living Green 365</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/environmental-data" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Data <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/data/mpca-quality-system">MPCA Quality System</a></li>
+<li class="leaf"><a href="/data/e-services">e-Services</a></li>
+<li class="expanded"><a href="/data/contaminated-sites-data">Contaminated sites</a></li>
+<li class="leaf"><a href="/data/hazardous-waste-data">Hazardous waste</a></li>
+<li class="leaf"><a href="/data/petroleum-storage-tanks">Petroleum storage tanks</a></li>
+<li class="leaf"><a href="/quick-links/eda-guide-typical-minnesota-water-quality-conditions">EDA: Guide to typical Minnesota water quality conditions</a></li>
+<li class="leaf"><a href="/data/environmental-quality-information-system-equis">Environmental Quality Information System (EQuIS)</a></li>
+<li class="leaf"><a href="/data/related-links">Related links</a></li>
+<li class="leaf"><a href="/data/spatial-data">Spatial data</a></li>
+<li class="leaf"><a href="/data/surface-water-data">Surface water data</a></li>
+<li class="leaf"><a href="/data/waste-and-recycling">Waste and recycling</a></li>
+<li class="last leaf"><a href="/data/whats-my-neighborhood">What&#039;s in My Neighborhood</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/about-mpca/about-mpca" data-target="#" class="dropdown-toggle" data-toggle="dropdown">About the MPCA <span class="caret"></span></a><ul class="dropdown-menu"><li class="first expanded"><a href="/about">About the MPCA</a></li>
+<li class="collapsed"><a href="/about-mpca/questions-and-assistance">Questions and assistance</a></li>
+<li class="expanded"><a href="/about-mpca/news-and-media">News and media</a></li>
+<li class="expanded"><a href="/about-mpca/legislative-resources">Legislative resources</a></li>
+<li class="leaf"><a href="/about-mpca/commissioners-office">Commissioner&#039;s office</a></li>
+<li class="leaf"><a href="/about-mpca/contractor-and-subcontracting-guidance">Contractor and subcontracting guidance</a></li>
+<li class="expanded"><a href="/about-mpca/jobs-mpca">Jobs at the MPCA</a></li>
+<li class="collapsed"><a href="/about-mpca/training-events">Training events</a></li>
+<li class="leaf"><a href="/about-mpca/mpca-publications">Publications</a></li>
+<li class="last expanded"><a href="/about-mpca/councils-and-forums">Councils and forums</a></li>
+</ul></li>
+<li class="last collapsed"><a href="/mpcas-response-covid-19">COVID-19</a></li>
+</ul>                                  </nav>
+        </div>
+            </div>
+  </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+  <ol class="breadcrumb"><li><a href="/air" class="active-trail">Air</a></li>
+<li><a href="/air/hows-air-0" class="active-trail">How&#039;s the air?</a></li>
+<li><a href="/air/air-pollutants-and-sources" class="active-trail">Air pollutants and sources</a></li>
+<li><a href="/air/air-pollutants" class="active-trail">Air pollutants</a></li>
+</ol>  <div class="row">
+
+    
+    <section class="col-sm-9">
+            <a id="main-content"></a>
+                    <h1 class="page-header">Chlorofluorocarbons (CFCs) and hydrofluorocarbons (HFCs)</h1>
+                                                          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <div id="node-140" class="node node-page clearfix" about="/air/chlorofluorocarbons-cfcs-and-hydrofluorocarbons-hfcs" typeof="foaf:Document">
+
+  
+      <span property="dc:title" content="Chlorofluorocarbons (CFCs) and hydrofluorocarbons (HFCs)" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Chlorofluorocarbons (CFCs), hydrochlorofluorocarbons (HCFCs) and halons destroy the earth's protective ozone layer, which shields the earth from harmful ultraviolet (UV-B) rays generated from the sun. CFCs and HCFCs also warm the lower atmosphere of the earth, changing global climate. Hydrofluorocarbons (HFCs) also act to warm the planet. The Minnesota Pollution Control Agency (MPCA) is working with industry, residents and government to reduce the damage done to the ozone layer and global climate by CFCs, HCFCs, HFCs and related chemicals.</p>
+
+<h2><a name="bad"></a>Why are CFCs and HFCs bad for the environment?</h2>
+
+<h3>Ozone depletion</h3>
+
+<p>Man-made compounds such as chlorofluorocarbons (CFCs), hydrofluorocarbons (HCFCs) and halons destroy ozone in the upper atmosphere (stratosphere). The stratospheric ozone layer makes life possible by shielding the earth from harmful ultraviolet (UV-B) rays generated from the sun. Decreased concentration of stratospheric ozone allows increased amounts of UV-B to reach the earth's surface.</p>
+
+<p>Stratospheric ozone loss can result in potential harm to human health and the environment, including:</p>
+
+<ul>
+	<li>increased incidence of skin cancer and cataracts</li>
+	<li>immune system system damage</li>
+	<li>damage to terrestrial and aquatic plant life</li>
+	<li>increased formation of ground-level ozone (smog)</li>
+</ul>
+
+<p>Most stratospheric ozone depletion is caused when chlorine or bromine reacts with ozone. Most of the chlorine entering the stratosphere is from man-made sources (84%), such as CFCs and HCFCs with the remaining 16% from natural sources, such as the ocean and volcanoes. About half of bromine entering the stratosphere is from man-made sources, mostly Halons.</p>
+
+<h3>Climate change</h3>
+
+<p>While acting to destroy ozone, CFCs and HCFCs also act to trap heat in the lower atmosphere, causing the earth to warm and climate and weather to change. HFCs, which originally were developed to replace CFCs and HCFCs, also absorb and trap infrared radiation or heat in the lower atmosphere of the earth. HFCs, CFCs and HFCs are a subset of a larger group of climate changing gases called greenhouse gases (GHGs). Taken together greenhouse gases are expected to warm the planet by 2.5 to 8 degrees Fahrenheit by the end of century.</p>
+
+<p>HFCs, CFCs and HFCs contribute an estimated 11.5% to present-day effect of GHGs on climate and climate change.&nbsp; Some effects of global climate change include:</p>
+
+<ul>
+	<li>Rising sea levels</li>
+	<li>Local natural species extinctions and habitat loss</li>
+	<li>More frequent heavy rainfall and flooding</li>
+	<li>High heat stress in summer</li>
+	<li>Increasing health risk from insect and water-borne diseases</li>
+</ul>
+
+<p>The production of CFCs in the United Stated or their import was prohibited as of January 1, 1996. Use of CFCs is restricted to equipment placed into use prior to 1996. The production or import of HCFC-22 and HCFC-142b for use in new units or applications was banned in the US as of January 1, 2010, although production and import for use in existing equipment is allowed through 2019. The production or import of HCFC-141b for any purpose were prohibited as of January 1, 2004.</p>
+
+<p>Most HFC uses in new units or applications are being phased out under USEPA Rules over a staggered schedule that begins in 2016 and stretches through 2024. Under these Rules, most HFC uses in polyurethane and other foams and in new retail food refrigerated cases will be phased out between January 1, 2016 and January 1 2020. Use of HFCs in mobile air conditioning will end with Model Year 2020, while prohibitions on HFC use in new fire suppression systems, cold storage, residential refrigeration, and building chillers go into place on January 1 of 2018, 2021, 2023 and 2024, respectively.</p>
+
+<p>Use of HFCs in existing equipment is unaffected by EPA regulations. Minnesota has an estimated 12 million residential appliances and car air conditioners that contain a total of about 13,000 tons of CFCs, HCFCs and HFCs.</p>
+
+<p>Regulations are in place to help prevent the release of CFCs, HCFCs and HFCs into the environment. In addition to the various production bans, servicers and disposers of appliances and motor vehicle air conditioners are required to obtain technician certification, proper refrigerant recovery or recycling equipment, and keep records.</p>
+
+<h2><a name="info"></a>Additional information</h2>
+
+<ul>
+	<li><a href="/air/climate-change-minnesota">Climate change in Minnesota</a></li>
+	<li><a href="http://www.epa.gov/tips">Report Environmental Violations (US EPA)</a> – Lodge a complaint related to CFCs or other ozone-depleting substances</li>
+	<li><a href="https://www.epa.gov/snap/snap-regulations">Significant New Alternatives Policy (US EPA)</a> – Information on recent EPA rulemakings on HFC and HCFC production and use prohibitions</li>
+	<li><a href="http://www.wmo.int/pages/prog/arep/gaw/ozone_2014/documents/ADM_2014OzoneAssessment_Final.pdf">2014 Scientific Assessment of Ozone Depletion (World Meteorological Organization)</a> – The science of ozone depletion</li>
+	<li><a href="http://www.ipcc.ch/report/ar5/wg1/">Fifth Assessment Report (Intergovernmental Panel on Climate Changes)</a> – Global warming and greenhouse gases</li>
+	<li><a href="/air/technical-information-handling-refrigerants">Technical information for handling refrigerants</a> – Businesses that service, dispose of, and recycle appliances and vehicle air conditioners</li>
+</ul>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</section>
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+    <div class="region region-footer">
+    <section id="block-block-11" class="block block-block clearfix">
+
+        <h2 class="block-title">Contact us</h2>
+    
+  <p><a class="tel primary" href="tel:+16512966300">651-296-6300</a> or <a class="tel primary" href="tel:+18006573864">800-657-3864</a></p>
+
+<ul>
+	<li><a href="mailto:info.pca@state.mn.us">Email us</a></li>
+	<li><a href="/about-mpca/mpca-staff-directory-search">Staff directory</a></li>
+	<li><a href="/about-mpca/mpca-offices">Regional offices</a></li>
+</ul>
+
+<h3>Environmental emergencies (24 hrs)</h3>
+
+<p><a class="tel emergency" href="tel:+18004220798">800-422-0798</a></p>
+</section>
+<section id="block-block-12" class="block block-block clearfix">
+
+        <h2 class="block-title">Social</h2>
+    
+  <ul>
+	<li><a href="/facebook"><span class="fa fa-facebook-square"></span><span>Facebook</span></a></li>
+	<li><a href="/twitter"><span class="fa fa-twitter-square"></span><span>Twitter</span></a></li>
+	<li><a href="/youtube"><span class="fa fa-youtube-square"></span><span>YouTube</span></a></li>
+</ul>
+
+<p>Sign up for <a class="govdelivery" href="https://public.govdelivery.com/accounts/MNPCA/subscriber/topics?qsp=MNPCA_1">Gov Delivery</a> emails on many MPCA topics</p>
+</section>
+<section id="block-block-13" class="block block-block clearfix">
+
+        <h2 class="block-title">Tools</h2>
+    
+  <ul>
+	<li><a href="/about-mpca/assistance">Assistance (How can we help?)</a></li>
+	<li><a href="/content/ask-mpca-online-form">Ask us a question</a></li>
+</ul>
+
+<p><a href="/about-mpca/mpca-website-policies-and-disclaimers">MPCA web site policies and disclaimers</a></p>
+
+<p style="margin-top:20px"><a href="https://www.sos.state.mn.us/elections-voting/register-to-vote/"><img alt="checkmark" src="/sites/default/files/styles/primary_840px_wide/public/vote-checkmark.png"> Register to vote</a></p>
+
+</section>
+  </div>
+</footer>
+  <script>/*<![CDATA[*/(function() {var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;sz.src = '//us2.siteimprove.com/js/siteanalyze_1535995.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);})();/*]]>*/</script>
+<script src="https://www.pca.state.mn.us/sites/default/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"></script>
+</body>
+</html>

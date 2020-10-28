@@ -23,7 +23,7 @@ Links :
 */
 
 
-const phone = 80;
+const smartphone = 80;
 const tablet = 87;
 const computer = 588;
 const laptop = 210;
@@ -34,7 +34,9 @@ export default {
     jeans,
     sweater,
     coat,
-    phone,
+    dress,
+    shoes,
+    smartphone,
     tablet,
     computer,
     laptop

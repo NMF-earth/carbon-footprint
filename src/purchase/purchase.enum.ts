@@ -1,4 +1,4 @@
 export enum PurchaseType {
-    tshirt = 'tshirt',
-    jean = 'jean',
+  tshirt = 'tshirt',
+  jean = 'jean',
 }

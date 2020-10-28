@@ -22,22 +22,21 @@ Links :
     https://www.apple.com/lae/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_June2019.pdf
 */
 
-
 const smartphone = 80;
 const tablet = 87;
 const computer = 588;
 const laptop = 210;
 
 export default {
-    shirt,
-    tshirt,
-    jeans,
-    sweater,
-    coat,
-    dress,
-    shoes,
-    smartphone,
-    tablet,
-    computer,
-    laptop
+  shirt,
+  tshirt,
+  jeans,
+  sweater,
+  coat,
+  dress,
+  shoes,
+  smartphone,
+  tablet,
+  computer,
+  laptop,
 };

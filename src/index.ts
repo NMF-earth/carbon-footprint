@@ -3,6 +3,7 @@ import { transport, TransportType } from './transport';
 import { electricity, ElectricityType } from './electricity';
 import { getInternetUsageCarbonImpact } from './internet';
 import { streaming, StreamingType } from './streaming';
+import {purchase, PurchaseType} from './purchase';
 
 export {
   food,
@@ -14,4 +15,6 @@ export {
   getInternetUsageCarbonImpact,
   streaming,
   StreamingType,
+  purchase,
+  PurchaseType
 };

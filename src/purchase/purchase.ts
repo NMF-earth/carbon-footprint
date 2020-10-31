@@ -27,6 +27,16 @@ const tablet = 87;
 const computer = 588;
 const laptop = 210;
 
+/* transport
+Reasons to choose Tesla :
+    - popular brand
+    - confiable report (with confiable sources)
+    https://www.tesla.com/ns_videos/2019-tesla-impact-report.pdf
+*/
+
+const fossilFuelCar = 346;
+const eletricCar = 120;
+
 export default {
   shirt,
   tshirt,
@@ -39,4 +49,6 @@ export default {
   tablet,
   computer,
   laptop,
+  fossilFuelCar,
+  eletricCar,
 };

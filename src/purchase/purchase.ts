@@ -32,10 +32,12 @@ Reasons to choose Tesla :
     - popular brand
     - confiable report (with confiable sources)
     https://www.tesla.com/ns_videos/2019-tesla-impact-report.pdf
+    PS: the values in this report are in g/miles.
+    The variables here are in g/km
 */
 
-const fossilFuelCar = 346;
-const eletricCar = 120;
+const fossilFuelCar = 215;
+const eletricCar = 75.5;
 
 export default {
   shirt,

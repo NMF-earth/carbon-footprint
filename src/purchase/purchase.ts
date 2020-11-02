@@ -27,6 +27,16 @@ const tablet = 87;
 const computer = 588;
 const laptop = 210;
 
+/* transport
+Reasons to choose LowCVP :
+    - LowCVP is a a public-private partnership (with UK gov and business) working a sustainable shift to lower carbon vehicles and fuel
+    - We can read more here: https://www.lowcvp.org.uk/about.htm
+    https://www.lowcvp.org.uk/assets/workingdocuments/MC-P-11-15a%20Lifecycle%20emissions%20report.pdf
+*/
+
+const fossilFuelCar = 5600;
+const eletricCar = 8800;
+
 export default {
   shirt,
   tshirt,
@@ -39,4 +49,6 @@ export default {
   tablet,
   computer,
   laptop,
+  fossilFuelCar,
+  eletricCar,
 };

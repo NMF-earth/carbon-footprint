@@ -35,6 +35,7 @@ Reasons to choose LowCVP :
 */
 
 const fossilFuelCar = 5600;
+const hybridCar = 6500;
 const eletricCar = 8800;
 
 export default {
@@ -50,5 +51,6 @@ export default {
   computer,
   laptop,
   fossilFuelCar,
+  hybridCar,
   eletricCar,
 };

@@ -10,6 +10,7 @@ export enum PurchaseType {
   tablet = 'tablet',
   computer = 'computer',
   laptop = 'laptop',
+  tv = 'tv',
   fossilFuelCar = 'fossilFuelCar',
   hybridCar = 'hybridCar',
   eletricCar = 'eletricCar',

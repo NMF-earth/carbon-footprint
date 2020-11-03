@@ -20,14 +20,16 @@ Links :
     https://www.apple.com/lae/environment/pdf/products/ipad/iPad_PER_sept2019.pdf
     https://www.apple.com/lae/environment/pdf/products/desktops/21.5-inch_iMac_with_Retina4KDisplay_PER_Mar2019.pdf
     https://www.apple.com/lae/environment/pdf/products/notebooks/13-inch_MacBookPro_PER_June2019.pdf
+    https://www.bilans-ges.ademe.fr/fr/basecarbone/donnees-consulter/liste-element?recherche=T%C3%A9l%C3%A9vision
 */
 
 const smartphone = 80;
 const tablet = 87;
 const computer = 588;
 const laptop = 210;
+const tv = 500;
 
-/* transport
+/* Transport
 Reasons to choose LowCVP :
     - LowCVP is a a public-private partnership (with UK gov and business) working a sustainable shift to lower carbon vehicles and fuel
     - We can read more here: https://www.lowcvp.org.uk/about.htm
@@ -50,6 +52,7 @@ export default {
   tablet,
   computer,
   laptop,
+  tv,
   fossilFuelCar,
   hybridCar,
   eletricCar,

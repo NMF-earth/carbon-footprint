@@ -1,11 +1,10 @@
-# Carbon Footprint Diagnostic 👣🩺
-
+# Carbon Footprint Diagnostic 🏭👣🩺
 
 ![](https://github.com/NMF-earth/nmf-app/workflows/Test%20CI/badge.svg)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 [![Build Status](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github)](https://github.com/climate-strike/license)
 
-Calculate your carbon footprint. Food, transport, purchases, electricity and digital activities like streaming.
+Calculate your carbon footprint. Food, transport, purchases, fashion, electricity and digital activities like streaming.
 
 Used in [NMF.earth](https://nmf.earth/) open-source project.
 Can be found on [NPM](https://www.npmjs.com/package/carbon-footprint).

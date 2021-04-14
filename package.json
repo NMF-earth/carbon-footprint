@@ -1,7 +1,7 @@
 {
   "name": "carbon-footprint",
-  "version": "1.4.2",
-  "description": "Calculate your carbon footprint. Food, transport, purchases, electricity and digital activities like streaming.",
+  "version": "1.5.0",
+  "description": "Calculate your carbon footprint. Food, transport, purchases, fashion, electricity and digital activities like streaming.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -29,7 +29,8 @@
     "purchases",
     "digital",
     "streaming",
-    "electricity"
+    "electricity",
+    "fashion"
   ],
   "author": "NMF.earth <contact@nmf.earth> (http://nmf.earth)",
   "license": "GPLv3",

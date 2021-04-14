@@ -4,6 +4,7 @@ import { electricity, ElectricityType } from './electricity';
 import { getInternetUsageCarbonImpact } from './internet';
 import { streaming, StreamingType } from './streaming';
 import { purchase, PurchaseType } from './purchase';
+import { fashion, FashionType } from './fashion';
 
 export {
   food,
@@ -17,4 +18,6 @@ export {
   StreamingType,
   purchase,
   PurchaseType,
+  fashion,
+  FashionType,
 };

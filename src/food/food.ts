@@ -26,7 +26,24 @@ const lentils = 0.9;
 const coffee = 3.14;
 const chocolate = 4.87;
 
+/* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4372775/ */
+/* Mean greenhouse gas emissions per 2,000 kcal */
+/* https://globalnews.ca/news/3615212/this-is-what-your-breakfast-lunch-and-dinner-calories-actually-look-like/ */
+/* Human get around 600 calories per meal */
+const highMeatMeal = (7.19 * 6000) / 2000;
+const mediumMeatMeal = (5.63 * 6000) / 2000;
+const lowMeatMeal = (4.67 * 6000) / 2000;
+const pescetarianMeal = (3.91 * 6000) / 2000;
+const vegetarianMeal = (3.81 * 6000) / 2000;
+const veganMeal = (2.89 * 6000) / 2000;
+
 export default {
+  highMeatMeal,
+  mediumMeatMeal,
+  lowMeatMeal,
+  pescetarianMeal,
+  vegetarianMeal,
+  veganMeal,
   coffee,
   chocolate,
   redMeat,

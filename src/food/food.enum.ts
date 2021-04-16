@@ -21,10 +21,4 @@ export enum FoodType {
   milk = 'milk',
   fruit = 'fruit',
   lentils = 'lentils',
-  highMeatMeal = 'highMeatMeal',
-  mediumMeatMeal = 'mediumMeatMeal',
-  lowMeatMeal = 'lowMeatMeal',
-  pescetarianMeal = 'pescetarianMeal',
-  vegetarianMeal = 'vegetarianMeal',
-  veganMeal = 'veganMeal',
 }

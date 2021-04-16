@@ -5,8 +5,11 @@ import { getInternetUsageCarbonImpact } from './internet';
 import { streaming, StreamingType } from './streaming';
 import { purchase, PurchaseType } from './purchase';
 import { fashion, FashionType } from './fashion';
+import { meal, MealType } from './meal';
 
 export {
+  meal,
+  MealType,
   food,
   FoodType,
   transport,

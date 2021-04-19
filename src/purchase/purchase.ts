@@ -1,4 +1,4 @@
-/* Unit: kgCO2eq per product */
+/* Unit: kgCO2eq per product / transaction */
 
 /* Tech
 Reasons to choose Apple :
@@ -29,6 +29,10 @@ const fossilFuelCar = 5600;
 const hybridCar = 6500;
 const eletricCar = 8800;
 
+/* https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053 */
+const cryptoCurrencyPoW = 20;
+const singleEditionNFT = 211;
+
 export default {
   smartphone,
   tablet,
@@ -38,4 +42,6 @@ export default {
   fossilFuelCar,
   hybridCar,
   eletricCar,
+  cryptoCurrencyPoW,
+  singleEditionNFT,
 };

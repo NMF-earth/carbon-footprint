@@ -7,4 +7,6 @@ export enum PurchaseType {
   fossilFuelCar = 'fossilFuelCar',
   hybridCar = 'hybridCar',
   eletricCar = 'eletricCar',
+  cryptoCurrencyPoW = 'cryptoCurrencyPoW',
+  singleEditionNFT = 'singleEditionNFT',
 }

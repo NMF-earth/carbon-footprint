@@ -10,7 +10,9 @@ export enum ElectricityType {
   portugal = 'portugal',
   netherlands = 'netherlands',
   belgium = 'belgium',
+  //to be removed at some point
   danmark = 'danmark',
+  denmark = 'denmark',
   germany = 'germany',
   poland = 'poland',
   italy = 'italy',
@@ -35,4 +37,10 @@ export enum ElectricityType {
   uruguay = 'uruguay',
   brazil = 'brazil',
   australia = 'australia',
+  russia = 'russia',
+  india = 'india',
+  nigeria = 'nigeria',
+  canada = 'canada',
+  iceland = 'iceland',
+  israel = 'israel',
 }

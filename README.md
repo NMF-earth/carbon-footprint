@@ -39,11 +39,12 @@ Any Contribution is welcome!
 
 Please read [this](/CONTRIBUTING.md) if you want to contribute.
 
-### Lint + typescript :
+### Tests + Lint + typescript :
 
-`npm run lint`
-and :
-`npm run format`
+`yarn test`
+`yarn lint`
+`yarn tsc`
+`yarn format`
 
 ## Workflow
 

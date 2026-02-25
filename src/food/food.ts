@@ -5,35 +5,36 @@
  * impacts through producers and consumers." Science, 360(6392), 987-992.
  * DOI: 10.1126/science.aaq0216
  *
+ * Values sourced via Our World in Data (ourworldindata.org/grapher/ghg-per-kg-poore),
+ * which standardized the supplementary data from the original publication.
  * Meta-analysis covering 570 studies, 38,700 farms, 119 countries.
- * Values are global median kgCO2eq per kg of product.
+ * Values are mean kgCO2eq per kg of product across the supply chain.
  *
  * Previous source: http://www.greeneatz.com/foods-carbon-footprint.html
  */
-const lamb = 24.0;
-const beef = 60.0; /* beef herd; dairy herd beef = 21.1 */
+const lamb = 39.72; /* P&N: Lamb & Mutton */
+const beef = 99.48; /* P&N: Beef (beef herd); dairy herd = 33.30 */
 const redMeat = (lamb + beef) / 2;
-const cheese = 11.0;
-const pork = 7.6;
-const turkey = 6.1; /* P&N does not separate turkey; using poultry value */
-const chicken = 6.1;
+const cheese = 23.88;
+const pork = 12.31; /* P&N: Pig Meat */
+const turkey = 9.87; /* P&N does not separate turkey; using Poultry Meat value */
+const chicken = 9.87; /* P&N: Poultry Meat */
 const whiteMeat = (pork + turkey + chicken) / 3;
-const tuna = 6.1; /* P&N: farmed fish 5.1, wild-caught varies; using 6.1 for large pelagic */
-const fish = 5.1;
-const eggs = 4.7;
-const potatoes = 0.5;
-const rice = 4.0;
-const nuts = 0.3;
-const beans = 1.6; /* P&N: other pulses */
-const tofu = 3.0;
-const vegetables = 0.5; /* P&N: root vegetables 0.4, brassicas 0.5, other veg 0.5 */
-const milk = 3.2;
-const fruit = 0.7; /* P&N: average of citrus 0.4, bananas 0.9, apples 0.4, berries 1.1 */
-const lentils = 0.9;
+const tuna = 13.63; /* P&N: Fish (farmed); wild-caught tuna may differ */
+const fish = 13.63; /* P&N: Fish (farmed) */
+const eggs = 4.67;
+const potatoes = 0.46;
+const rice = 4.45;
+const nuts = 0.43;
+const beans = 1.79; /* P&N: Other Pulses */
+const tofu = 3.16;
+const vegetables = 0.53; /* P&N: Other Vegetables; root veg 0.43, brassicas 0.51 */
+const milk = 3.15;
+const fruit = 1.05; /* P&N: Other Fruit; citrus 0.39, bananas 0.86, apples 0.43 */
+const lentils = 0.98; /* P&N: Peas (closest proxy) */
 
-/* Source: Poore & Nemecek 2018 */
-const coffee = 16.5;
-const chocolate = 18.7; /* P&N: dark chocolate */
+const coffee = 28.53;
+const chocolate = 46.65; /* P&N: Dark Chocolate */
 
 export default {
   coffee,

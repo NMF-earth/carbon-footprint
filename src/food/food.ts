@@ -1,17 +1,13 @@
 /* Unit: kgCO2eq per kg of product */
 
 /*
- * Source: Poore, J., & Nemecek, T. (2018). "Reducing food's environmental
- * impacts through producers and consumers." Science, 360(6392), 987-992.
- * DOI: 10.1126/science.aaq0216
+ * Sources: Latest figures are used
  *
- * Values sourced via Our World in Data (ourworldindata.org/grapher/ghg-per-kg-poore),
- * which standardized the supplementary data from the original publication.
- * Meta-analysis covering 570 studies, 38,700 farms, 119 countries.
- * Values are mean kgCO2eq per kg of product across the supply chain.
+ * https://ourworldindata.org/grapher/ghg-per-kg-poore
+ * http://www.greeneatz.com/foods-carbon-footprint.html
  *
- * Previous source: http://www.greeneatz.com/foods-carbon-footprint.html
  */
+
 const lamb = 39.72; /* P&N: Lamb & Mutton */
 const beef = 99.48; /* P&N: Beef (beef herd); dairy herd = 33.30 */
 const redMeat = (lamb + beef) / 2;
